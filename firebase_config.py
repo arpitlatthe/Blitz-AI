@@ -7,33 +7,31 @@ from firebase_admin import credentials, firestore
 
 if not firebase_admin._apps:
 
-    try:
-        firebase_secrets = st.secrets["firebase"]
+    if "firebase" in st.secrets:
 
         firebase_credentials = {
-            "type": firebase_secrets["type"],
-            "project_id": firebase_secrets["project_id"],
-            "private_key_id": firebase_secrets["private_key_id"],
-            "private_key": firebase_secrets["private_key"].replace(
+            "type": st.secrets["firebase"]["type"],
+            "project_id": st.secrets["firebase"]["project_id"],
+            "private_key_id": st.secrets["firebase"]["private_key_id"],
+            "private_key": st.secrets["firebase"]["private_key"].replace(
                 "\\n", "\n"
             ),
-            "client_email": firebase_secrets["client_email"],
-            "client_id": firebase_secrets["client_id"],
-            "auth_uri": firebase_secrets["auth_uri"],
-            "token_uri": firebase_secrets["token_uri"],
-            "auth_provider_x509_cert_url": firebase_secrets[
+            "client_email": st.secrets["firebase"]["client_email"],
+            "client_id": st.secrets["firebase"]["client_id"],
+            "auth_uri": st.secrets["firebase"]["auth_uri"],
+            "token_uri": st.secrets["firebase"]["token_uri"],
+            "auth_provider_x509_cert_url": st.secrets["firebase"][
                 "auth_provider_x509_cert_url"
             ],
-            "client_x509_cert_url": firebase_secrets[
+            "client_x509_cert_url": st.secrets["firebase"][
                 "client_x509_cert_url"
             ]
         }
 
         cred = credentials.Certificate(firebase_credentials)
 
-    except Exception:
+    else:
 
-        # Local development
         BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
         KEY_PATH = os.path.join(
