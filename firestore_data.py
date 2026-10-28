@@ -1,36 +1,30 @@
 import pandas as pd
-from firebase_config import db
+import os
 
 
 def load_data_from_firestore():
 
-    orders = db.collection("orders").stream()
+    file_path = os.path.join(
+        os.path.dirname(__file__),
+        "data",
+        "ecommerce_data.csv"
+    )
 
-    data = []
+    df = pd.read_csv(file_path)
 
-    for order in orders:
-        data.append(order.to_dict())
+    df["Date"] = pd.to_datetime(df["Date"])
 
-    df = pd.DataFrame(data)
+    numeric_columns = [
+        "Quantity",
+        "Sales",
+        "Cost",
+        "Profit"
+    ]
 
-    if not df.empty:
-
-        df["Date"] = pd.to_datetime(
-            df["Date"]
+    for column in numeric_columns:
+        df[column] = pd.to_numeric(
+            df[column],
+            errors="coerce"
         )
-
-        numeric_columns = [
-            "Quantity",
-            "Sales",
-            "Cost",
-            "Profit"
-        ]
-
-        for column in numeric_columns:
-
-            df[column] = pd.to_numeric(
-                df[column],
-                errors="coerce"
-            )
 
     return df
