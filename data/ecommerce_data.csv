@@ -1,0 +1,501 @@
+Order_ID,Date,Customer,Product,Category,Region,Quantity,Sales,Cost,Profit
+ORD0001,2025-11-24,Customer_015,Laptop,Electronics,South,3,165000,135000,30000
+ORD0002,2025-04-25,Customer_018,Table Lamp,Furniture,Central,1,2500,1400,1100
+ORD0003,2025-02-14,Customer_076,Webcam,Accessories,North,1,3500,2200,1300
+ORD0004,2025-02-17,Customer_028,Headphones,Electronics,Central,5,25000,17500,7500
+ORD0005,2025-01-14,Customer_072,Headphones,Electronics,West,5,25000,17500,7500
+ORD0006,2025-04-23,Customer_058,Desk,Furniture,North,3,45000,31500,13500
+ORD0007,2025-03-23,Customer_090,Webcam,Accessories,East,3,10500,6600,3900
+ORD0008,2025-03-21,Customer_028,Tablet,Electronics,North,3,66000,51000,15000
+ORD0009,2025-02-17,Customer_049,Smartphone,Electronics,East,3,90000,72000,18000
+ORD0010,2025-11-06,Customer_034,Tablet,Electronics,West,1,22000,17000,5000
+ORD0011,2025-10-02,Customer_016,External SSD,Electronics,North,4,32000,22000,10000
+ORD0012,2025-10-10,Customer_038,Printer,Electronics,East,5,70000,52500,17500
+ORD0013,2025-10-23,Customer_025,Table Lamp,Furniture,North,1,2500,1400,1100
+ORD0014,2025-12-05,Customer_030,Tablet,Electronics,North,3,66000,51000,15000
+ORD0015,2025-04-30,Customer_013,Webcam,Accessories,West,3,10500,6600,3900
+ORD0016,2025-11-22,Customer_047,Monitor,Electronics,East,3,54000,42000,12000
+ORD0017,2025-04-18,Customer_086,Keyboard,Accessories,Central,1,2500,1600,900
+ORD0018,2025-11-22,Customer_022,Office Chair,Furniture,South,2,24000,17000,7000
+ORD0019,2025-08-25,Customer_049,Keyboard,Accessories,South,5,12500,8000,4500
+ORD0020,2025-12-17,Customer_042,Printer,Electronics,South,1,14000,10500,3500
+ORD0021,2025-01-17,Customer_041,Webcam,Accessories,North,3,10500,6600,3900
+ORD0022,2025-04-19,Customer_073,External SSD,Electronics,South,3,24000,16500,7500
+ORD0023,2025-12-02,Customer_064,Webcam,Accessories,South,4,14000,8800,5200
+ORD0024,2025-05-16,Customer_018,Headphones,Electronics,Central,5,25000,17500,7500
+ORD0025,2025-05-15,Customer_096,Desk,Furniture,Central,4,60000,42000,18000
+ORD0026,2025-07-24,Customer_047,Headphones,Electronics,Central,2,10000,7000,3000
+ORD0027,2025-09-10,Customer_012,Tablet,Electronics,North,1,22000,17000,5000
+ORD0028,2025-03-20,Customer_081,Monitor,Electronics,Central,4,72000,56000,16000
+ORD0029,2025-02-02,Customer_050,Webcam,Accessories,West,5,17500,11000,6500
+ORD0030,2025-09-28,Customer_033,Office Chair,Furniture,North,1,12000,8500,3500
+ORD0031,2025-12-16,Customer_069,Tablet,Electronics,East,3,66000,51000,15000
+ORD0032,2025-02-27,Customer_038,Webcam,Accessories,West,2,7000,4400,2600
+ORD0033,2025-01-02,Customer_093,External SSD,Electronics,Central,3,24000,16500,7500
+ORD0034,2025-04-02,Customer_065,External SSD,Electronics,East,1,8000,5500,2500
+ORD0035,2025-11-24,Customer_065,Desk,Furniture,South,2,30000,21000,9000
+ORD0036,2025-07-11,Customer_098,Monitor,Electronics,Central,5,90000,70000,20000
+ORD0037,2025-01-01,Customer_077,Mouse,Accessories,North,4,4800,2800,2000
+ORD0038,2025-02-27,Customer_047,External SSD,Electronics,South,3,24000,16500,7500
+ORD0039,2025-01-30,Customer_031,External SSD,Electronics,North,5,40000,27500,12500
+ORD0040,2025-02-13,Customer_094,USB Hub,Accessories,Central,1,1800,1000,800
+ORD0041,2025-03-06,Customer_017,Bookshelf,Furniture,Central,4,36000,24000,12000
+ORD0042,2025-03-26,Customer_034,Office Chair,Furniture,West,5,60000,42500,17500
+ORD0043,2025-04-19,Customer_070,Tablet,Electronics,East,2,44000,34000,10000
+ORD0044,2025-07-24,Customer_086,Bookshelf,Furniture,West,3,27000,18000,9000
+ORD0045,2025-09-22,Customer_058,Smartphone,Electronics,South,2,60000,48000,12000
+ORD0046,2025-02-02,Customer_044,Laptop,Electronics,Central,5,275000,225000,50000
+ORD0047,2025-04-28,Customer_076,Headphones,Electronics,North,1,5000,3500,1500
+ORD0048,2025-12-29,Customer_081,Laptop,Electronics,North,2,110000,90000,20000
+ORD0049,2025-01-17,Customer_043,Smartphone,Electronics,South,5,150000,120000,30000
+ORD0050,2025-05-23,Customer_086,USB Hub,Accessories,Central,2,3600,2000,1600
+ORD0051,2025-03-09,Customer_093,External SSD,Electronics,Central,5,40000,27500,12500
+ORD0052,2025-08-31,Customer_032,Tablet,Electronics,West,4,88000,68000,20000
+ORD0053,2025-04-08,Customer_013,Smartphone,Electronics,East,4,120000,96000,24000
+ORD0054,2025-08-05,Customer_053,USB Hub,Accessories,North,1,1800,1000,800
+ORD0055,2025-02-01,Customer_052,Table Lamp,Furniture,North,3,7500,4200,3300
+ORD0056,2025-05-08,Customer_025,Headphones,Electronics,West,5,25000,17500,7500
+ORD0057,2025-03-13,Customer_055,Monitor,Electronics,West,3,54000,42000,12000
+ORD0058,2025-05-08,Customer_010,USB Hub,Accessories,North,5,9000,5000,4000
+ORD0059,2025-01-26,Customer_084,Office Chair,Furniture,North,1,12000,8500,3500
+ORD0060,2025-05-02,Customer_022,Webcam,Accessories,West,4,14000,8800,5200
+ORD0061,2025-04-20,Customer_052,External SSD,Electronics,South,1,8000,5500,2500
+ORD0062,2025-07-14,Customer_001,Webcam,Accessories,West,3,10500,6600,3900
+ORD0063,2025-05-27,Customer_055,Table Lamp,Furniture,West,5,12500,7000,5500
+ORD0064,2025-03-21,Customer_025,Keyboard,Accessories,North,2,5000,3200,1800
+ORD0065,2025-10-24,Customer_095,Office Chair,Furniture,East,1,12000,8500,3500
+ORD0066,2025-01-30,Customer_007,Desk,Furniture,Central,4,60000,42000,18000
+ORD0067,2025-09-29,Customer_021,Laptop,Electronics,North,5,275000,225000,50000
+ORD0068,2025-04-06,Customer_009,Desk,Furniture,South,1,15000,10500,4500
+ORD0069,2025-07-26,Customer_016,External SSD,Electronics,South,5,40000,27500,12500
+ORD0070,2025-10-24,Customer_077,Laptop,Electronics,North,5,275000,225000,50000
+ORD0071,2025-08-03,Customer_085,Desk,Furniture,Central,5,75000,52500,22500
+ORD0072,2025-06-11,Customer_034,Headphones,Electronics,South,3,15000,10500,4500
+ORD0073,2025-05-16,Customer_051,Monitor,Electronics,West,3,54000,42000,12000
+ORD0074,2025-06-11,Customer_097,External SSD,Electronics,North,1,8000,5500,2500
+ORD0075,2025-08-23,Customer_080,Desk,Furniture,North,1,15000,10500,4500
+ORD0076,2025-10-03,Customer_028,Office Chair,Furniture,South,3,36000,25500,10500
+ORD0077,2025-06-28,Customer_009,External SSD,Electronics,East,2,16000,11000,5000
+ORD0078,2025-05-26,Customer_021,USB Hub,Accessories,East,5,9000,5000,4000
+ORD0079,2025-11-10,Customer_084,Office Chair,Furniture,Central,1,12000,8500,3500
+ORD0080,2025-06-03,Customer_085,Smartphone,Electronics,East,2,60000,48000,12000
+ORD0081,2025-03-01,Customer_014,Table Lamp,Furniture,South,5,12500,7000,5500
+ORD0082,2025-05-20,Customer_037,Desk,Furniture,East,2,30000,21000,9000
+ORD0083,2025-04-15,Customer_088,Bookshelf,Furniture,Central,3,27000,18000,9000
+ORD0084,2025-09-08,Customer_033,External SSD,Electronics,North,1,8000,5500,2500
+ORD0085,2025-11-21,Customer_055,Printer,Electronics,North,3,42000,31500,10500
+ORD0086,2025-01-02,Customer_043,Tablet,Electronics,East,2,44000,34000,10000
+ORD0087,2025-03-24,Customer_095,USB Hub,Accessories,West,5,9000,5000,4000
+ORD0088,2025-10-15,Customer_002,Smartphone,Electronics,South,1,30000,24000,6000
+ORD0089,2025-10-07,Customer_005,Printer,Electronics,Central,3,42000,31500,10500
+ORD0090,2025-10-10,Customer_019,Webcam,Accessories,North,2,7000,4400,2600
+ORD0091,2025-06-07,Customer_047,External SSD,Electronics,East,1,8000,5500,2500
+ORD0092,2025-04-18,Customer_088,Headphones,Electronics,East,1,5000,3500,1500
+ORD0093,2025-10-14,Customer_053,Desk,Furniture,South,2,30000,21000,9000
+ORD0094,2025-03-25,Customer_023,External SSD,Electronics,North,4,32000,22000,10000
+ORD0095,2025-04-02,Customer_095,External SSD,Electronics,West,3,24000,16500,7500
+ORD0096,2025-12-09,Customer_095,Tablet,Electronics,East,2,44000,34000,10000
+ORD0097,2025-03-23,Customer_090,Smartphone,Electronics,North,4,120000,96000,24000
+ORD0098,2025-08-29,Customer_029,Headphones,Electronics,East,4,20000,14000,6000
+ORD0099,2025-06-06,Customer_030,Headphones,Electronics,South,1,5000,3500,1500
+ORD0100,2025-07-24,Customer_043,Keyboard,Accessories,East,1,2500,1600,900
+ORD0101,2025-06-29,Customer_083,Office Chair,Furniture,Central,4,48000,34000,14000
+ORD0102,2025-06-19,Customer_004,Smartphone,Electronics,South,3,90000,72000,18000
+ORD0103,2025-10-25,Customer_034,Laptop,Electronics,Central,1,55000,45000,10000
+ORD0104,2025-08-11,Customer_045,Table Lamp,Furniture,West,3,7500,4200,3300
+ORD0105,2025-11-07,Customer_066,Smartphone,Electronics,Central,4,120000,96000,24000
+ORD0106,2025-04-08,Customer_033,Laptop,Electronics,North,4,220000,180000,40000
+ORD0107,2025-09-24,Customer_069,Bookshelf,Furniture,East,2,18000,12000,6000
+ORD0108,2025-08-09,Customer_009,Bookshelf,Furniture,Central,3,27000,18000,9000
+ORD0109,2025-06-10,Customer_085,Printer,Electronics,East,1,14000,10500,3500
+ORD0110,2025-09-17,Customer_040,Bookshelf,Furniture,East,4,36000,24000,12000
+ORD0111,2025-07-26,Customer_090,Keyboard,Accessories,South,5,12500,8000,4500
+ORD0112,2025-04-09,Customer_054,Bookshelf,Furniture,South,4,36000,24000,12000
+ORD0113,2025-11-12,Customer_073,Keyboard,Accessories,Central,4,10000,6400,3600
+ORD0114,2025-01-01,Customer_039,Keyboard,Accessories,West,2,5000,3200,1800
+ORD0115,2025-10-24,Customer_078,Bookshelf,Furniture,West,3,27000,18000,9000
+ORD0116,2025-08-15,Customer_057,Bookshelf,Furniture,Central,2,18000,12000,6000
+ORD0117,2025-08-31,Customer_095,Monitor,Electronics,East,1,18000,14000,4000
+ORD0118,2025-09-21,Customer_085,Bookshelf,Furniture,East,5,45000,30000,15000
+ORD0119,2025-02-17,Customer_097,Headphones,Electronics,South,3,15000,10500,4500
+ORD0120,2025-04-12,Customer_019,Laptop,Electronics,South,1,55000,45000,10000
+ORD0121,2025-09-01,Customer_079,Printer,Electronics,West,1,14000,10500,3500
+ORD0122,2025-08-01,Customer_081,Desk,Furniture,West,2,30000,21000,9000
+ORD0123,2025-09-11,Customer_052,Headphones,Electronics,North,2,10000,7000,3000
+ORD0124,2025-02-24,Customer_100,Webcam,Accessories,South,2,7000,4400,2600
+ORD0125,2025-12-23,Customer_067,USB Hub,Accessories,Central,1,1800,1000,800
+ORD0126,2025-05-08,Customer_016,USB Hub,Accessories,West,2,3600,2000,1600
+ORD0127,2025-12-08,Customer_068,Office Chair,Furniture,East,5,60000,42500,17500
+ORD0128,2025-08-15,Customer_079,Printer,Electronics,West,5,70000,52500,17500
+ORD0129,2025-10-08,Customer_058,External SSD,Electronics,West,2,16000,11000,5000
+ORD0130,2025-08-19,Customer_034,Tablet,Electronics,East,2,44000,34000,10000
+ORD0131,2025-09-24,Customer_063,Bookshelf,Furniture,East,2,18000,12000,6000
+ORD0132,2025-08-14,Customer_010,Table Lamp,Furniture,South,3,7500,4200,3300
+ORD0133,2025-05-20,Customer_043,Mouse,Accessories,North,5,6000,3500,2500
+ORD0134,2025-03-12,Customer_020,Headphones,Electronics,South,4,20000,14000,6000
+ORD0135,2025-12-28,Customer_028,Smartphone,Electronics,West,4,120000,96000,24000
+ORD0136,2025-06-19,Customer_070,USB Hub,Accessories,North,4,7200,4000,3200
+ORD0137,2025-04-16,Customer_054,Webcam,Accessories,North,5,17500,11000,6500
+ORD0138,2025-10-22,Customer_049,USB Hub,Accessories,East,1,1800,1000,800
+ORD0139,2025-06-02,Customer_097,Webcam,Accessories,Central,4,14000,8800,5200
+ORD0140,2025-10-07,Customer_078,External SSD,Electronics,West,2,16000,11000,5000
+ORD0141,2025-04-23,Customer_035,Webcam,Accessories,North,4,14000,8800,5200
+ORD0142,2025-07-19,Customer_044,Bookshelf,Furniture,South,4,36000,24000,12000
+ORD0143,2025-08-28,Customer_017,Desk,Furniture,North,5,75000,52500,22500
+ORD0144,2025-07-21,Customer_076,Desk,Furniture,North,1,15000,10500,4500
+ORD0145,2025-11-26,Customer_055,Monitor,Electronics,South,4,72000,56000,16000
+ORD0146,2025-01-26,Customer_034,Webcam,Accessories,South,3,10500,6600,3900
+ORD0147,2025-08-21,Customer_042,Mouse,Accessories,East,4,4800,2800,2000
+ORD0148,2025-08-04,Customer_033,Printer,Electronics,West,1,14000,10500,3500
+ORD0149,2025-01-10,Customer_096,Office Chair,Furniture,East,1,12000,8500,3500
+ORD0150,2025-04-25,Customer_084,Smartphone,Electronics,North,1,30000,24000,6000
+ORD0151,2025-05-07,Customer_026,Printer,Electronics,Central,1,14000,10500,3500
+ORD0152,2025-03-20,Customer_031,Monitor,Electronics,North,4,72000,56000,16000
+ORD0153,2025-10-16,Customer_028,USB Hub,Accessories,East,3,5400,3000,2400
+ORD0154,2025-03-27,Customer_078,Desk,Furniture,South,1,15000,10500,4500
+ORD0155,2025-06-09,Customer_014,Desk,Furniture,East,1,15000,10500,4500
+ORD0156,2025-10-22,Customer_087,External SSD,Electronics,West,4,32000,22000,10000
+ORD0157,2025-04-12,Customer_010,Desk,Furniture,North,2,30000,21000,9000
+ORD0158,2025-12-23,Customer_099,Keyboard,Accessories,North,5,12500,8000,4500
+ORD0159,2025-10-17,Customer_006,Mouse,Accessories,West,5,6000,3500,2500
+ORD0160,2025-12-05,Customer_048,Smartphone,Electronics,East,5,150000,120000,30000
+ORD0161,2025-01-07,Customer_054,Printer,Electronics,North,4,56000,42000,14000
+ORD0162,2025-08-10,Customer_047,Bookshelf,Furniture,South,4,36000,24000,12000
+ORD0163,2025-08-11,Customer_023,Table Lamp,Furniture,East,5,12500,7000,5500
+ORD0164,2025-11-12,Customer_069,Tablet,Electronics,West,4,88000,68000,20000
+ORD0165,2025-08-12,Customer_094,Desk,Furniture,East,3,45000,31500,13500
+ORD0166,2025-05-06,Customer_012,Keyboard,Accessories,South,4,10000,6400,3600
+ORD0167,2025-08-26,Customer_073,Desk,Furniture,East,4,60000,42000,18000
+ORD0168,2025-01-15,Customer_064,Printer,Electronics,South,3,42000,31500,10500
+ORD0169,2025-09-07,Customer_028,Mouse,Accessories,East,3,3600,2100,1500
+ORD0170,2025-05-24,Customer_077,Table Lamp,Furniture,Central,3,7500,4200,3300
+ORD0171,2025-01-06,Customer_067,Headphones,Electronics,South,1,5000,3500,1500
+ORD0172,2025-07-28,Customer_063,Office Chair,Furniture,West,2,24000,17000,7000
+ORD0173,2025-11-27,Customer_092,USB Hub,Accessories,North,4,7200,4000,3200
+ORD0174,2025-02-17,Customer_038,Headphones,Electronics,South,4,20000,14000,6000
+ORD0175,2025-06-06,Customer_085,Desk,Furniture,West,3,45000,31500,13500
+ORD0176,2025-10-11,Customer_068,Mouse,Accessories,Central,4,4800,2800,2000
+ORD0177,2025-06-19,Customer_046,Table Lamp,Furniture,East,4,10000,5600,4400
+ORD0178,2025-06-06,Customer_033,Headphones,Electronics,South,1,5000,3500,1500
+ORD0179,2025-06-11,Customer_016,Table Lamp,Furniture,South,5,12500,7000,5500
+ORD0180,2025-04-09,Customer_028,Table Lamp,Furniture,East,4,10000,5600,4400
+ORD0181,2025-10-29,Customer_098,Office Chair,Furniture,East,5,60000,42500,17500
+ORD0182,2025-02-21,Customer_025,Keyboard,Accessories,East,2,5000,3200,1800
+ORD0183,2025-04-02,Customer_039,Laptop,Electronics,South,5,275000,225000,50000
+ORD0184,2025-05-21,Customer_006,Laptop,Electronics,East,5,275000,225000,50000
+ORD0185,2025-12-24,Customer_017,Bookshelf,Furniture,North,4,36000,24000,12000
+ORD0186,2025-01-07,Customer_074,Keyboard,Accessories,West,4,10000,6400,3600
+ORD0187,2025-08-14,Customer_044,Monitor,Electronics,East,1,18000,14000,4000
+ORD0188,2025-09-02,Customer_015,Printer,Electronics,West,1,14000,10500,3500
+ORD0189,2025-09-09,Customer_010,Desk,Furniture,South,1,15000,10500,4500
+ORD0190,2025-03-18,Customer_073,Keyboard,Accessories,South,1,2500,1600,900
+ORD0191,2025-03-02,Customer_072,Tablet,Electronics,Central,4,88000,68000,20000
+ORD0192,2025-11-02,Customer_080,Headphones,Electronics,West,5,25000,17500,7500
+ORD0193,2025-08-19,Customer_057,Keyboard,Accessories,West,5,12500,8000,4500
+ORD0194,2025-06-06,Customer_073,Desk,Furniture,Central,1,15000,10500,4500
+ORD0195,2025-02-20,Customer_098,Headphones,Electronics,East,2,10000,7000,3000
+ORD0196,2025-12-05,Customer_011,Monitor,Electronics,South,2,36000,28000,8000
+ORD0197,2025-10-10,Customer_010,Monitor,Electronics,West,1,18000,14000,4000
+ORD0198,2025-08-19,Customer_089,Desk,Furniture,East,4,60000,42000,18000
+ORD0199,2025-01-17,Customer_030,Keyboard,Accessories,West,3,7500,4800,2700
+ORD0200,2025-02-06,Customer_088,Headphones,Electronics,Central,3,15000,10500,4500
+ORD0201,2025-12-05,Customer_026,Webcam,Accessories,Central,1,3500,2200,1300
+ORD0202,2025-04-26,Customer_083,Monitor,Electronics,South,3,54000,42000,12000
+ORD0203,2025-02-06,Customer_008,Monitor,Electronics,Central,3,54000,42000,12000
+ORD0204,2025-10-19,Customer_037,USB Hub,Accessories,West,1,1800,1000,800
+ORD0205,2025-12-19,Customer_039,Table Lamp,Furniture,East,4,10000,5600,4400
+ORD0206,2025-09-14,Customer_070,USB Hub,Accessories,North,4,7200,4000,3200
+ORD0207,2025-11-03,Customer_006,External SSD,Electronics,East,4,32000,22000,10000
+ORD0208,2025-11-06,Customer_033,Laptop,Electronics,South,1,55000,45000,10000
+ORD0209,2025-12-12,Customer_074,Desk,Furniture,East,1,15000,10500,4500
+ORD0210,2025-10-23,Customer_006,Tablet,Electronics,West,2,44000,34000,10000
+ORD0211,2025-09-23,Customer_084,USB Hub,Accessories,South,3,5400,3000,2400
+ORD0212,2025-10-27,Customer_056,Bookshelf,Furniture,North,4,36000,24000,12000
+ORD0213,2025-08-29,Customer_045,Webcam,Accessories,East,3,10500,6600,3900
+ORD0214,2025-12-10,Customer_014,Printer,Electronics,East,2,28000,21000,7000
+ORD0215,2025-07-30,Customer_089,USB Hub,Accessories,West,3,5400,3000,2400
+ORD0216,2025-10-09,Customer_005,USB Hub,Accessories,East,1,1800,1000,800
+ORD0217,2025-05-10,Customer_042,Smartphone,Electronics,Central,4,120000,96000,24000
+ORD0218,2025-01-01,Customer_085,Printer,Electronics,West,5,70000,52500,17500
+ORD0219,2025-07-31,Customer_007,Headphones,Electronics,East,5,25000,17500,7500
+ORD0220,2025-11-15,Customer_097,USB Hub,Accessories,North,4,7200,4000,3200
+ORD0221,2025-04-15,Customer_035,Office Chair,Furniture,East,2,24000,17000,7000
+ORD0222,2025-08-13,Customer_090,USB Hub,Accessories,North,1,1800,1000,800
+ORD0223,2025-11-19,Customer_078,Tablet,Electronics,South,2,44000,34000,10000
+ORD0224,2025-06-09,Customer_071,Laptop,Electronics,West,5,275000,225000,50000
+ORD0225,2025-02-17,Customer_029,Printer,Electronics,West,1,14000,10500,3500
+ORD0226,2025-03-02,Customer_083,Printer,Electronics,West,2,28000,21000,7000
+ORD0227,2025-05-30,Customer_066,Table Lamp,Furniture,West,3,7500,4200,3300
+ORD0228,2025-09-05,Customer_061,Headphones,Electronics,Central,4,20000,14000,6000
+ORD0229,2025-03-16,Customer_050,Headphones,Electronics,Central,5,25000,17500,7500
+ORD0230,2025-03-11,Customer_009,Keyboard,Accessories,East,4,10000,6400,3600
+ORD0231,2025-09-17,Customer_035,Printer,Electronics,East,1,14000,10500,3500
+ORD0232,2025-06-02,Customer_076,Desk,Furniture,South,4,60000,42000,18000
+ORD0233,2025-08-17,Customer_069,USB Hub,Accessories,East,3,5400,3000,2400
+ORD0234,2025-10-10,Customer_098,Office Chair,Furniture,West,4,48000,34000,14000
+ORD0235,2025-06-14,Customer_025,Table Lamp,Furniture,Central,2,5000,2800,2200
+ORD0236,2025-07-16,Customer_030,Printer,Electronics,North,4,56000,42000,14000
+ORD0237,2025-06-12,Customer_096,USB Hub,Accessories,West,4,7200,4000,3200
+ORD0238,2025-12-06,Customer_084,Monitor,Electronics,North,4,72000,56000,16000
+ORD0239,2025-03-06,Customer_065,Desk,Furniture,North,3,45000,31500,13500
+ORD0240,2025-08-14,Customer_013,Office Chair,Furniture,North,4,48000,34000,14000
+ORD0241,2025-03-15,Customer_053,Printer,Electronics,North,2,28000,21000,7000
+ORD0242,2025-08-29,Customer_034,Mouse,Accessories,West,5,6000,3500,2500
+ORD0243,2025-11-29,Customer_011,Printer,Electronics,Central,3,42000,31500,10500
+ORD0244,2025-07-14,Customer_041,Bookshelf,Furniture,Central,4,36000,24000,12000
+ORD0245,2025-01-19,Customer_080,Smartphone,Electronics,East,2,60000,48000,12000
+ORD0246,2025-04-27,Customer_096,Smartphone,Electronics,North,4,120000,96000,24000
+ORD0247,2025-11-21,Customer_091,Printer,Electronics,West,1,14000,10500,3500
+ORD0248,2025-03-27,Customer_089,Keyboard,Accessories,North,1,2500,1600,900
+ORD0249,2025-06-16,Customer_008,Keyboard,Accessories,East,3,7500,4800,2700
+ORD0250,2025-08-09,Customer_019,Headphones,Electronics,West,5,25000,17500,7500
+ORD0251,2025-10-17,Customer_088,Tablet,Electronics,South,2,44000,34000,10000
+ORD0252,2025-03-31,Customer_011,Desk,Furniture,Central,4,60000,42000,18000
+ORD0253,2025-12-16,Customer_031,USB Hub,Accessories,South,5,9000,5000,4000
+ORD0254,2025-04-29,Customer_060,Bookshelf,Furniture,West,3,27000,18000,9000
+ORD0255,2025-05-11,Customer_086,Laptop,Electronics,East,4,220000,180000,40000
+ORD0256,2025-12-13,Customer_070,Monitor,Electronics,West,1,18000,14000,4000
+ORD0257,2025-06-26,Customer_076,Keyboard,Accessories,East,4,10000,6400,3600
+ORD0258,2025-08-22,Customer_039,Headphones,Electronics,West,4,20000,14000,6000
+ORD0259,2025-02-24,Customer_031,Webcam,Accessories,East,5,17500,11000,6500
+ORD0260,2025-10-22,Customer_038,Table Lamp,Furniture,North,3,7500,4200,3300
+ORD0261,2025-12-04,Customer_051,Keyboard,Accessories,Central,1,2500,1600,900
+ORD0262,2025-12-18,Customer_100,Table Lamp,Furniture,Central,1,2500,1400,1100
+ORD0263,2025-09-12,Customer_037,Tablet,Electronics,Central,2,44000,34000,10000
+ORD0264,2025-06-30,Customer_029,Bookshelf,Furniture,Central,2,18000,12000,6000
+ORD0265,2025-05-09,Customer_087,Tablet,Electronics,North,2,44000,34000,10000
+ORD0266,2025-11-18,Customer_083,Laptop,Electronics,West,3,165000,135000,30000
+ORD0267,2025-01-18,Customer_075,Mouse,Accessories,North,2,2400,1400,1000
+ORD0268,2025-06-01,Customer_042,Table Lamp,Furniture,South,4,10000,5600,4400
+ORD0269,2025-04-13,Customer_017,Tablet,Electronics,East,5,110000,85000,25000
+ORD0270,2025-09-29,Customer_065,External SSD,Electronics,South,3,24000,16500,7500
+ORD0271,2025-05-12,Customer_062,Tablet,Electronics,East,3,66000,51000,15000
+ORD0272,2025-02-28,Customer_060,Smartphone,Electronics,South,2,60000,48000,12000
+ORD0273,2025-12-13,Customer_093,Bookshelf,Furniture,Central,4,36000,24000,12000
+ORD0274,2025-07-07,Customer_012,Tablet,Electronics,North,4,88000,68000,20000
+ORD0275,2025-05-16,Customer_069,Smartphone,Electronics,East,4,120000,96000,24000
+ORD0276,2025-12-11,Customer_096,Bookshelf,Furniture,Central,3,27000,18000,9000
+ORD0277,2025-07-15,Customer_082,Mouse,Accessories,South,1,1200,700,500
+ORD0278,2025-08-30,Customer_004,Desk,Furniture,East,5,75000,52500,22500
+ORD0279,2025-11-09,Customer_029,Bookshelf,Furniture,West,1,9000,6000,3000
+ORD0280,2025-12-25,Customer_039,Bookshelf,Furniture,North,4,36000,24000,12000
+ORD0281,2025-03-13,Customer_006,Laptop,Electronics,West,3,165000,135000,30000
+ORD0282,2025-03-01,Customer_013,Headphones,Electronics,South,5,25000,17500,7500
+ORD0283,2025-07-18,Customer_059,Mouse,Accessories,West,5,6000,3500,2500
+ORD0284,2025-10-28,Customer_096,Table Lamp,Furniture,West,2,5000,2800,2200
+ORD0285,2025-12-02,Customer_013,Printer,Electronics,Central,4,56000,42000,14000
+ORD0286,2025-07-28,Customer_036,Laptop,Electronics,South,3,165000,135000,30000
+ORD0287,2025-08-16,Customer_057,Headphones,Electronics,North,3,15000,10500,4500
+ORD0288,2025-12-18,Customer_048,Office Chair,Furniture,North,3,36000,25500,10500
+ORD0289,2025-07-23,Customer_036,Headphones,Electronics,West,1,5000,3500,1500
+ORD0290,2025-02-16,Customer_085,Headphones,Electronics,North,5,25000,17500,7500
+ORD0291,2025-01-26,Customer_043,Headphones,Electronics,Central,2,10000,7000,3000
+ORD0292,2025-04-16,Customer_009,Printer,Electronics,South,5,70000,52500,17500
+ORD0293,2025-10-28,Customer_028,Printer,Electronics,East,2,28000,21000,7000
+ORD0294,2025-03-17,Customer_077,Laptop,Electronics,South,3,165000,135000,30000
+ORD0295,2025-03-08,Customer_070,Keyboard,Accessories,North,2,5000,3200,1800
+ORD0296,2025-12-05,Customer_004,Monitor,Electronics,East,1,18000,14000,4000
+ORD0297,2025-05-02,Customer_076,Mouse,Accessories,South,1,1200,700,500
+ORD0298,2025-05-16,Customer_007,Monitor,Electronics,Central,4,72000,56000,16000
+ORD0299,2025-02-28,Customer_096,Smartphone,Electronics,West,4,120000,96000,24000
+ORD0300,2025-07-05,Customer_066,Desk,Furniture,West,1,15000,10500,4500
+ORD0301,2025-09-15,Customer_029,Desk,Furniture,Central,1,15000,10500,4500
+ORD0302,2025-06-04,Customer_059,Bookshelf,Furniture,North,1,9000,6000,3000
+ORD0303,2025-09-03,Customer_052,Webcam,Accessories,West,1,3500,2200,1300
+ORD0304,2025-12-31,Customer_057,Smartphone,Electronics,East,1,30000,24000,6000
+ORD0305,2025-11-08,Customer_019,Smartphone,Electronics,East,2,60000,48000,12000
+ORD0306,2025-11-16,Customer_082,Desk,Furniture,East,5,75000,52500,22500
+ORD0307,2025-07-15,Customer_077,Office Chair,Furniture,West,3,36000,25500,10500
+ORD0308,2025-09-16,Customer_078,Webcam,Accessories,North,1,3500,2200,1300
+ORD0309,2025-12-02,Customer_084,External SSD,Electronics,South,5,40000,27500,12500
+ORD0310,2025-08-09,Customer_058,External SSD,Electronics,West,2,16000,11000,5000
+ORD0311,2025-06-23,Customer_059,Webcam,Accessories,North,4,14000,8800,5200
+ORD0312,2025-06-10,Customer_055,Mouse,Accessories,East,3,3600,2100,1500
+ORD0313,2025-03-20,Customer_088,External SSD,Electronics,North,4,32000,22000,10000
+ORD0314,2025-02-16,Customer_011,Smartphone,Electronics,North,4,120000,96000,24000
+ORD0315,2025-07-10,Customer_017,Office Chair,Furniture,Central,1,12000,8500,3500
+ORD0316,2025-10-15,Customer_072,Mouse,Accessories,West,1,1200,700,500
+ORD0317,2025-07-01,Customer_086,Tablet,Electronics,North,4,88000,68000,20000
+ORD0318,2025-05-28,Customer_077,Keyboard,Accessories,North,3,7500,4800,2700
+ORD0319,2025-10-23,Customer_065,Headphones,Electronics,West,2,10000,7000,3000
+ORD0320,2025-04-25,Customer_014,Mouse,Accessories,East,5,6000,3500,2500
+ORD0321,2025-02-28,Customer_098,Keyboard,Accessories,South,5,12500,8000,4500
+ORD0322,2025-08-08,Customer_072,Tablet,Electronics,Central,5,110000,85000,25000
+ORD0323,2025-12-12,Customer_083,Office Chair,Furniture,Central,1,12000,8500,3500
+ORD0324,2025-12-03,Customer_089,Keyboard,Accessories,South,1,2500,1600,900
+ORD0325,2025-05-20,Customer_090,Tablet,Electronics,East,3,66000,51000,15000
+ORD0326,2025-06-29,Customer_001,Monitor,Electronics,Central,2,36000,28000,8000
+ORD0327,2025-12-03,Customer_052,Smartphone,Electronics,North,2,60000,48000,12000
+ORD0328,2025-02-16,Customer_096,Office Chair,Furniture,West,2,24000,17000,7000
+ORD0329,2025-08-03,Customer_059,Mouse,Accessories,East,2,2400,1400,1000
+ORD0330,2025-06-09,Customer_093,Mouse,Accessories,Central,5,6000,3500,2500
+ORD0331,2025-02-13,Customer_007,Monitor,Electronics,Central,2,36000,28000,8000
+ORD0332,2025-01-26,Customer_087,Smartphone,Electronics,West,3,90000,72000,18000
+ORD0333,2025-12-05,Customer_055,USB Hub,Accessories,West,5,9000,5000,4000
+ORD0334,2025-08-01,Customer_035,Headphones,Electronics,North,5,25000,17500,7500
+ORD0335,2025-06-26,Customer_056,Smartphone,Electronics,Central,3,90000,72000,18000
+ORD0336,2025-09-07,Customer_068,Bookshelf,Furniture,North,3,27000,18000,9000
+ORD0337,2025-04-23,Customer_051,Desk,Furniture,North,1,15000,10500,4500
+ORD0338,2025-04-15,Customer_039,Headphones,Electronics,East,2,10000,7000,3000
+ORD0339,2025-05-29,Customer_042,Smartphone,Electronics,West,1,30000,24000,6000
+ORD0340,2025-08-09,Customer_023,Monitor,Electronics,Central,4,72000,56000,16000
+ORD0341,2025-12-27,Customer_030,Office Chair,Furniture,East,5,60000,42500,17500
+ORD0342,2025-02-06,Customer_051,Printer,Electronics,West,1,14000,10500,3500
+ORD0343,2025-01-10,Customer_059,External SSD,Electronics,East,1,8000,5500,2500
+ORD0344,2025-10-22,Customer_055,Desk,Furniture,West,4,60000,42000,18000
+ORD0345,2025-05-29,Customer_015,Webcam,Accessories,East,1,3500,2200,1300
+ORD0346,2025-03-29,Customer_080,USB Hub,Accessories,North,3,5400,3000,2400
+ORD0347,2025-08-12,Customer_014,Headphones,Electronics,Central,4,20000,14000,6000
+ORD0348,2025-07-25,Customer_068,Smartphone,Electronics,East,4,120000,96000,24000
+ORD0349,2025-06-23,Customer_029,Mouse,Accessories,North,2,2400,1400,1000
+ORD0350,2025-09-19,Customer_082,Smartphone,Electronics,Central,5,150000,120000,30000
+ORD0351,2025-04-10,Customer_100,Mouse,Accessories,South,3,3600,2100,1500
+ORD0352,2025-05-01,Customer_014,Monitor,Electronics,South,3,54000,42000,12000
+ORD0353,2025-03-30,Customer_078,Monitor,Electronics,South,1,18000,14000,4000
+ORD0354,2025-11-18,Customer_064,USB Hub,Accessories,Central,5,9000,5000,4000
+ORD0355,2025-08-18,Customer_088,External SSD,Electronics,Central,5,40000,27500,12500
+ORD0356,2025-06-15,Customer_081,Mouse,Accessories,West,2,2400,1400,1000
+ORD0357,2025-02-04,Customer_061,USB Hub,Accessories,East,3,5400,3000,2400
+ORD0358,2025-10-30,Customer_008,Mouse,Accessories,North,5,6000,3500,2500
+ORD0359,2025-06-08,Customer_060,USB Hub,Accessories,North,1,1800,1000,800
+ORD0360,2025-07-08,Customer_037,Smartphone,Electronics,Central,1,30000,24000,6000
+ORD0361,2025-11-01,Customer_065,Webcam,Accessories,Central,4,14000,8800,5200
+ORD0362,2025-10-11,Customer_095,External SSD,Electronics,West,1,8000,5500,2500
+ORD0363,2025-10-20,Customer_084,Headphones,Electronics,Central,3,15000,10500,4500
+ORD0364,2025-09-01,Customer_065,Monitor,Electronics,West,1,18000,14000,4000
+ORD0365,2025-02-22,Customer_044,Table Lamp,Furniture,Central,1,2500,1400,1100
+ORD0366,2025-11-27,Customer_023,Laptop,Electronics,West,2,110000,90000,20000
+ORD0367,2025-08-13,Customer_068,Office Chair,Furniture,South,5,60000,42500,17500
+ORD0368,2025-07-06,Customer_048,External SSD,Electronics,West,3,24000,16500,7500
+ORD0369,2025-07-29,Customer_100,Mouse,Accessories,North,5,6000,3500,2500
+ORD0370,2025-11-20,Customer_083,Mouse,Accessories,East,1,1200,700,500
+ORD0371,2025-02-18,Customer_072,Bookshelf,Furniture,East,4,36000,24000,12000
+ORD0372,2025-05-10,Customer_093,Printer,Electronics,South,5,70000,52500,17500
+ORD0373,2025-06-20,Customer_011,Desk,Furniture,East,2,30000,21000,9000
+ORD0374,2025-06-08,Customer_084,Table Lamp,Furniture,South,4,10000,5600,4400
+ORD0375,2025-11-01,Customer_091,Smartphone,Electronics,Central,3,90000,72000,18000
+ORD0376,2025-07-12,Customer_083,Tablet,Electronics,South,3,66000,51000,15000
+ORD0377,2025-12-10,Customer_090,Printer,Electronics,North,5,70000,52500,17500
+ORD0378,2025-11-27,Customer_086,Webcam,Accessories,East,5,17500,11000,6500
+ORD0379,2025-01-10,Customer_047,Keyboard,Accessories,South,2,5000,3200,1800
+ORD0380,2025-06-24,Customer_099,USB Hub,Accessories,South,2,3600,2000,1600
+ORD0381,2025-03-12,Customer_020,Smartphone,Electronics,North,3,90000,72000,18000
+ORD0382,2025-09-17,Customer_099,Office Chair,Furniture,North,5,60000,42500,17500
+ORD0383,2025-12-05,Customer_044,External SSD,Electronics,South,5,40000,27500,12500
+ORD0384,2025-11-02,Customer_049,Monitor,Electronics,South,2,36000,28000,8000
+ORD0385,2025-12-21,Customer_099,Desk,Furniture,West,2,30000,21000,9000
+ORD0386,2025-01-23,Customer_053,Mouse,Accessories,West,2,2400,1400,1000
+ORD0387,2025-11-09,Customer_037,Tablet,Electronics,South,4,88000,68000,20000
+ORD0388,2025-10-01,Customer_031,Keyboard,Accessories,South,4,10000,6400,3600
+ORD0389,2025-07-08,Customer_087,Desk,Furniture,West,4,60000,42000,18000
+ORD0390,2025-05-25,Customer_100,Webcam,Accessories,Central,5,17500,11000,6500
+ORD0391,2025-08-03,Customer_021,Printer,Electronics,Central,2,28000,21000,7000
+ORD0392,2025-03-12,Customer_033,Laptop,Electronics,East,4,220000,180000,40000
+ORD0393,2025-10-11,Customer_014,Table Lamp,Furniture,North,5,12500,7000,5500
+ORD0394,2025-05-26,Customer_011,Tablet,Electronics,East,2,44000,34000,10000
+ORD0395,2025-08-19,Customer_066,Monitor,Electronics,North,4,72000,56000,16000
+ORD0396,2025-04-24,Customer_058,External SSD,Electronics,North,3,24000,16500,7500
+ORD0397,2025-08-01,Customer_007,Webcam,Accessories,East,5,17500,11000,6500
+ORD0398,2025-05-01,Customer_050,Smartphone,Electronics,South,3,90000,72000,18000
+ORD0399,2025-01-15,Customer_041,External SSD,Electronics,East,1,8000,5500,2500
+ORD0400,2025-03-16,Customer_018,Laptop,Electronics,West,3,165000,135000,30000
+ORD0401,2025-12-23,Customer_018,Tablet,Electronics,West,4,88000,68000,20000
+ORD0402,2025-11-12,Customer_001,External SSD,Electronics,North,1,8000,5500,2500
+ORD0403,2025-05-12,Customer_028,Printer,Electronics,Central,2,28000,21000,7000
+ORD0404,2025-11-08,Customer_068,Webcam,Accessories,East,1,3500,2200,1300
+ORD0405,2025-05-02,Customer_039,Smartphone,Electronics,South,1,30000,24000,6000
+ORD0406,2025-08-03,Customer_082,Tablet,Electronics,West,5,110000,85000,25000
+ORD0407,2025-02-02,Customer_015,Printer,Electronics,Central,4,56000,42000,14000
+ORD0408,2025-10-02,Customer_003,Bookshelf,Furniture,Central,5,45000,30000,15000
+ORD0409,2025-05-04,Customer_092,Monitor,Electronics,West,3,54000,42000,12000
+ORD0410,2025-01-01,Customer_079,Mouse,Accessories,Central,2,2400,1400,1000
+ORD0411,2025-08-02,Customer_024,Bookshelf,Furniture,Central,1,9000,6000,3000
+ORD0412,2025-07-04,Customer_009,Office Chair,Furniture,Central,5,60000,42500,17500
+ORD0413,2025-09-17,Customer_071,Laptop,Electronics,West,4,220000,180000,40000
+ORD0414,2025-01-23,Customer_082,Webcam,Accessories,East,3,10500,6600,3900
+ORD0415,2025-01-09,Customer_046,Tablet,Electronics,East,1,22000,17000,5000
+ORD0416,2025-05-04,Customer_094,Bookshelf,Furniture,Central,1,9000,6000,3000
+ORD0417,2025-06-20,Customer_018,Laptop,Electronics,Central,3,165000,135000,30000
+ORD0418,2025-06-23,Customer_083,Monitor,Electronics,West,4,72000,56000,16000
+ORD0419,2025-11-20,Customer_024,Tablet,Electronics,North,2,44000,34000,10000
+ORD0420,2025-08-23,Customer_005,Keyboard,Accessories,North,2,5000,3200,1800
+ORD0421,2025-04-13,Customer_006,Mouse,Accessories,Central,3,3600,2100,1500
+ORD0422,2025-07-23,Customer_070,USB Hub,Accessories,North,3,5400,3000,2400
+ORD0423,2025-11-28,Customer_025,Keyboard,Accessories,North,3,7500,4800,2700
+ORD0424,2025-12-02,Customer_043,Keyboard,Accessories,East,1,2500,1600,900
+ORD0425,2025-08-12,Customer_052,Table Lamp,Furniture,West,4,10000,5600,4400
+ORD0426,2025-06-23,Customer_024,USB Hub,Accessories,East,4,7200,4000,3200
+ORD0427,2025-09-23,Customer_035,Tablet,Electronics,West,1,22000,17000,5000
+ORD0428,2025-02-10,Customer_056,Desk,Furniture,Central,2,30000,21000,9000
+ORD0429,2025-05-31,Customer_042,Smartphone,Electronics,East,1,30000,24000,6000
+ORD0430,2025-12-05,Customer_038,Keyboard,Accessories,Central,4,10000,6400,3600
+ORD0431,2025-08-07,Customer_022,Table Lamp,Furniture,East,4,10000,5600,4400
+ORD0432,2025-08-17,Customer_006,Table Lamp,Furniture,Central,3,7500,4200,3300
+ORD0433,2025-08-11,Customer_036,Bookshelf,Furniture,North,1,9000,6000,3000
+ORD0434,2025-12-10,Customer_082,Webcam,Accessories,Central,3,10500,6600,3900
+ORD0435,2025-12-14,Customer_021,Laptop,Electronics,Central,2,110000,90000,20000
+ORD0436,2025-12-14,Customer_057,Laptop,Electronics,North,2,110000,90000,20000
+ORD0437,2025-05-01,Customer_100,Bookshelf,Furniture,East,3,27000,18000,9000
+ORD0438,2025-07-16,Customer_073,Laptop,Electronics,South,5,275000,225000,50000
+ORD0439,2025-12-14,Customer_058,Mouse,Accessories,West,3,3600,2100,1500
+ORD0440,2025-02-09,Customer_074,Monitor,Electronics,East,5,90000,70000,20000
+ORD0441,2025-07-23,Customer_041,Bookshelf,Furniture,South,3,27000,18000,9000
+ORD0442,2025-02-28,Customer_004,Table Lamp,Furniture,West,2,5000,2800,2200
+ORD0443,2025-09-23,Customer_050,External SSD,Electronics,North,5,40000,27500,12500
+ORD0444,2025-05-15,Customer_100,Keyboard,Accessories,South,4,10000,6400,3600
+ORD0445,2025-11-10,Customer_037,Table Lamp,Furniture,South,4,10000,5600,4400
+ORD0446,2025-03-04,Customer_018,Printer,Electronics,West,1,14000,10500,3500
+ORD0447,2025-03-30,Customer_092,USB Hub,Accessories,East,1,1800,1000,800
+ORD0448,2025-12-08,Customer_045,Table Lamp,Furniture,Central,1,2500,1400,1100
+ORD0449,2025-10-05,Customer_038,External SSD,Electronics,South,3,24000,16500,7500
+ORD0450,2025-12-31,Customer_091,External SSD,Electronics,East,2,16000,11000,5000
+ORD0451,2025-09-18,Customer_029,Smartphone,Electronics,South,2,60000,48000,12000
+ORD0452,2025-05-02,Customer_064,Laptop,Electronics,Central,3,165000,135000,30000
+ORD0453,2025-10-21,Customer_048,USB Hub,Accessories,South,5,9000,5000,4000
+ORD0454,2025-11-10,Customer_012,Smartphone,Electronics,West,3,90000,72000,18000
+ORD0455,2025-09-03,Customer_068,Webcam,Accessories,Central,4,14000,8800,5200
+ORD0456,2025-02-07,Customer_017,Mouse,Accessories,West,1,1200,700,500
+ORD0457,2025-08-27,Customer_088,Office Chair,Furniture,South,3,36000,25500,10500
+ORD0458,2025-10-10,Customer_082,Desk,Furniture,South,2,30000,21000,9000
+ORD0459,2025-08-10,Customer_065,External SSD,Electronics,North,1,8000,5500,2500
+ORD0460,2025-09-23,Customer_020,Keyboard,Accessories,South,2,5000,3200,1800
+ORD0461,2025-06-15,Customer_091,Headphones,Electronics,Central,3,15000,10500,4500
+ORD0462,2025-05-26,Customer_011,Keyboard,Accessories,Central,2,5000,3200,1800
+ORD0463,2025-05-21,Customer_017,Bookshelf,Furniture,Central,3,27000,18000,9000
+ORD0464,2025-10-01,Customer_012,Office Chair,Furniture,Central,2,24000,17000,7000
+ORD0465,2025-10-25,Customer_020,Monitor,Electronics,Central,5,90000,70000,20000
+ORD0466,2025-06-22,Customer_073,Laptop,Electronics,North,1,55000,45000,10000
+ORD0467,2025-01-24,Customer_083,Tablet,Electronics,East,5,110000,85000,25000
+ORD0468,2025-11-30,Customer_027,Tablet,Electronics,West,5,110000,85000,25000
+ORD0469,2025-11-13,Customer_082,Laptop,Electronics,Central,4,220000,180000,40000
+ORD0470,2025-05-29,Customer_083,Keyboard,Accessories,South,4,10000,6400,3600
+ORD0471,2025-12-17,Customer_052,Keyboard,Accessories,North,4,10000,6400,3600
+ORD0472,2025-12-19,Customer_008,Monitor,Electronics,West,4,72000,56000,16000
+ORD0473,2025-09-05,Customer_060,Headphones,Electronics,Central,3,15000,10500,4500
+ORD0474,2025-03-15,Customer_041,Printer,Electronics,East,3,42000,31500,10500
+ORD0475,2025-07-24,Customer_017,Tablet,Electronics,Central,3,66000,51000,15000
+ORD0476,2025-10-15,Customer_014,Mouse,Accessories,West,2,2400,1400,1000
+ORD0477,2025-03-04,Customer_035,USB Hub,Accessories,South,2,3600,2000,1600
+ORD0478,2025-02-19,Customer_007,Keyboard,Accessories,Central,4,10000,6400,3600
+ORD0479,2025-08-03,Customer_032,Printer,Electronics,East,2,28000,21000,7000
+ORD0480,2025-10-23,Customer_093,Mouse,Accessories,South,2,2400,1400,1000
+ORD0481,2025-09-13,Customer_066,USB Hub,Accessories,East,4,7200,4000,3200
+ORD0482,2025-09-12,Customer_003,Smartphone,Electronics,Central,4,120000,96000,24000
+ORD0483,2025-08-23,Customer_031,Headphones,Electronics,East,5,25000,17500,7500
+ORD0484,2025-01-25,Customer_007,Keyboard,Accessories,Central,4,10000,6400,3600
+ORD0485,2025-12-01,Customer_087,USB Hub,Accessories,Central,3,5400,3000,2400
+ORD0486,2025-01-05,Customer_014,Webcam,Accessories,East,2,7000,4400,2600
+ORD0487,2025-07-07,Customer_098,Webcam,Accessories,North,3,10500,6600,3900
+ORD0488,2025-07-25,Customer_007,Desk,Furniture,South,5,75000,52500,22500
+ORD0489,2025-07-05,Customer_071,Keyboard,Accessories,West,1,2500,1600,900
+ORD0490,2025-09-16,Customer_058,Tablet,Electronics,East,5,110000,85000,25000
+ORD0491,2025-11-16,Customer_088,Desk,Furniture,South,1,15000,10500,4500
+ORD0492,2025-02-19,Customer_051,Mouse,Accessories,Central,3,3600,2100,1500
+ORD0493,2025-07-07,Customer_097,Monitor,Electronics,Central,2,36000,28000,8000
+ORD0494,2025-09-18,Customer_052,Office Chair,Furniture,North,1,12000,8500,3500
+ORD0495,2025-01-20,Customer_018,Table Lamp,Furniture,West,3,7500,4200,3300
+ORD0496,2025-09-23,Customer_059,Monitor,Electronics,Central,5,90000,70000,20000
+ORD0497,2025-03-13,Customer_042,External SSD,Electronics,East,5,40000,27500,12500
+ORD0498,2025-03-25,Customer_051,Desk,Furniture,Central,3,45000,31500,13500
+ORD0499,2025-06-22,Customer_065,Printer,Electronics,Central,5,70000,52500,17500
+ORD0500,2025-09-08,Customer_091,Desk,Furniture,West,3,45000,31500,13500
